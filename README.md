@@ -2,6 +2,10 @@ Welcome to Chicago Parking Map!
 
 This is a map for visualzing different datasets related to parking in the city of chicago.
 
+View webmap here:
+
+https://kcslade.github.io/ChicagoParkingMap/
+
 ![image](https://github.com/Kcslade/ChicagoParkingMap/assets/173574308/44dcbd77-9f47-455f-acdd-e63bd2c6f994)
 
 Layers List:
